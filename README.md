@@ -19,8 +19,7 @@ The applicant is asked to go over the following steps:
 3. Separate faces with glasses and those without glasses using the attributes.
 4. Build a train-dataloader and a test-dataloader (with 2 classes: `eyeglasses` `no-eyeglasses`).
 5. Build and train the model.
-6. Evaluate the model.
-**Bonus Steps:**
+6. Evaluate the model. <br /> **Bonus Steps:**
 7. Create visualization of the training (tensorboard is recommended).
 8. Run hyperparameter search (gridsearch).
 
