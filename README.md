@@ -1,5 +1,5 @@
 # Eyeglasses Detection Exercise
-I created this coding exercise to evaluate applicants for a junior AI engineer position. An excellent junior AI engineer is expected to require 6-8 hours (**~ a working day**) to finish this exercise. In this project, the applicant will be asked to create a binary eyeglasses detector. This exercise is based on the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). This dataset includes face attributes, one of these attributes indicates whether the person is wearing eyeglasses or not. This repository includes both a jupyter-notebook coding exercise **eyeglass_detection_excercise.ipynb** and the model solution: **solution.ipynb**.
+I created this coding exercise to evaluate applicants for a junior AI engineer position. An excellent junior AI engineer is expected to require 6-8 hours ( **~ a working day** ) to finish this exercise. In this project, the applicant will be asked to create a binary eyeglasses detector. This exercise is based on the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). This dataset includes face attributes, one of these attributes indicates whether the person is wearing eyeglasses or not. This repository includes both a jupyter-notebook coding exercise **eyeglass_detection_excercise.ipynb** and the model solution: **solution.ipynb**.
 
 
 ### Evaluated Skills
