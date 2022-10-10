@@ -2,7 +2,7 @@
 I created this coding exercise to evaluate applicants for a junior AI engineer position. In this exercise, the applicant is asked to create a binary eyeglasses detector. This exercise is based on the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). This dataset includes face attributes, one of these attributes indicates whether the person is wearing eyeglasses or not. An excellent junior AI engineer is expected to require 6-8 hours (**a work day**) to finish this exercise. This repository includes a jupyter-notebook coding exercise **eyeglass_detection_excercise.ipynb** and the model solution: **solution.ipynb**.
 
 
-### Evaluated Skills
+## Evaluated Skills
 This exercise tests the applicant's ability to:
 1. Clone and install/set-up a GitHub repository.
 2. Go over the documentation of a GitHub repository and use a pre-trained model for inference.
@@ -12,7 +12,7 @@ This exercise tests the applicant's ability to:
 6. finish the task in a timely manner.
 
 
-### Guideline
+## Guideline
 The applicant is asked to go over the following steps:
 1. Install face detector [DSFDDetector](https://github.com/hukkelas/DSFD-Pytorch-Inference).
 2. Crop faces using the face detector.
@@ -26,7 +26,7 @@ The applicant is asked to go over the following steps:
 
 [PyTorch](https://pytorch.org/) is the preferred framework.
 
-### Evaluation Criteria
+## Evaluation Criteria
 Evaluation will be based on the following:
 - Code is functional (it works).
 - Time required to solve the task.
